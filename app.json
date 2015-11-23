@@ -1,0 +1,6 @@
+{
+  "name": "My Blog",
+  "description": "A base blog project written in PHP for the CodeGuild course",
+  "repository": "https://github.com/CodeGuild-co/base-php",
+  "addons": []
+}
