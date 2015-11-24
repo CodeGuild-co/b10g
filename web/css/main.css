@@ -8,10 +8,10 @@
   border-color: #845ac7;
 }
 .jumbotron .btn-primary:hover {
-  background: #ff0000;
+  background: #7646c1;
 }
 .jumbotron p {
-  color: #d9ccee;
+  color: #ff0000;
   max-width: 75%;
   margin: 1em auto 2em;
 }
