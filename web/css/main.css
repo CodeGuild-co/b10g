@@ -4,8 +4,8 @@
   padding-bottom: 80px;
 }
 .jumbotron .btn-primary {
-  background: #D3D3D3;
-  border-color: #845ac7;
+  background: #845ac7;
+  border-color: #D3D3D3;
 }
 .jumbotron .btn-primary:hover {
   background: #7646c1;
