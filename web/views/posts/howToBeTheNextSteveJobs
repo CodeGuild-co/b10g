@@ -1,0 +1,47 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="container">
+    <div class="row">
+        <h3>How to become the next Steve Jobs</h3>
+        <p>Steve Jobs was not a programmer. Yep.
+        He owned a tech firm and over a billion $$$ from this admirable company but
+        knew absolutely nothing about what happened inside their beautiful machines.</p>
+        <p>So how is he known as THE revolutionary of our time? Well, it’s down to one simple thing:</p>
+        <p>He</p>
+        <p>Was</p>
+        <p>Lazy</p>
+        <p> </p>
+        <p>And no, lazy does not mean being a slouch, watching X-Factor and
+        Netflix for all your heart’s content,
+        it’s far simpler than that.</p>
+        <p>When you are given a problem, you look at it and say ‘Nahh…’ I don’t like this, Call of Duty came out on Xbox last week, I wanna play that.</p>
+        <p>So what do you do? You have two choices – do the boring task at hand or you go and have fun.</p>
+        <p>Most of us will choose to go and have fun… If you don’t, email me and I’ll give you all my homework.</p>
+        <p>Now, lets put money into this: </p>
+        <p>Let’s say, I’m going to give you £100 for this. Maybe..? £1000? That’s more I like it! But what is this problem you speak of..?</p>
+        <p>Now it comes to the question of “How long is it going to take?” Can I do it quicker? If so, will it still work if I leave a few loop holes? Do I really need to do that?</p>
+        <p>Let’s say the problem was to make a calculator that adds two numbers.</p>
+        <p>The solution to this exists on the internet. Can we copy it? Of course we can (as long as the copyright permits).</p>
+        <p>There we go, we’re done, £1000 in my bank, not a bad day at work if I don’t say so myself.</p>
+        <p></p>
+        <p>What you just did there was become a computer scientist. Yep, here’s your Computer Science Degree from Cambridge off you trot.</p>
+        <p>You think I’m joking? I’m not.</p>
+        <p>All a Computer Scientist does is be lazy and get money. Sounds legit.</p>
+        <p>Here is what you need to do: </p>
+        <ul>
+        <li>Break down the big problem into smaller chunks (basically a whole chicken to chicken nuggets)</li>
+        <li>Be precise in your goals – I mean really really precise…</li>
+        <li>Don’t repeat code <b>(D.R.Y) Don’t Repeat Yourself</b></li>
+        <li>Be simple <b>(K.I.S.S) Keep it Simple Stupid</b></li>
+        </ul>
+        <p>Once you have these stamped down now, it really is just down to how socially intelligent you are (that’s a complicated way of saying if you can get along).</p>
+        <p>When you have the opportunity to use other people’s code use it! It will save a heck load of time.</p>
+        <p>Don’t waste your time programming things you don’t need… It’s easy to say this but much harder to put into practice. To solve this you have to keep your goal in mind. </p>
+        <p>Why do all this?</p>
+        <p></p>
+        <p>It SAVES money. Remember that you want to be rich and still play X-Box so make sure you are not spending too much time working.</p>
+    </div>
+  </div>
+</div>
+{% endblock %}
