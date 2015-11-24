@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="container">
+    <div class="row">
+        <h3>WTF (What the fractals)??</h3>
+        <p>Fractals are funny.... not</p>
+    </div>
+  </div>
+</div>
+{% endblock %}
