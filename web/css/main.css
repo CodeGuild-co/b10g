@@ -17,6 +17,7 @@
 }
 .jumbotron h1 {
   font-size: 40px;
+  font: 400 40px/1.3  Helvetica, sans-serif;
 }
 .navbar + .jumbotron {
   margin-top: -20px;
