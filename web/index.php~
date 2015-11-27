@@ -33,7 +33,7 @@ $app->get('/subscribe/{name}/', function($name) use($app) {
 });
 
 
-
+<?php
 
 /**
  * Create an empty text file called counterlog.txt and 
@@ -69,6 +69,6 @@ fwrite($fp, $count);
 // Close the file
 fclose($fp);
 
-
+?> 
 
 $app->run();

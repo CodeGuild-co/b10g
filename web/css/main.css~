@@ -12,7 +12,7 @@
     right: 0px;
     width: 300px;
     position: absolute;
-    padding: 5px;
+    padding: 10px;
 }
 
 .jumbotron .btn-primary:hover {
