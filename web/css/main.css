@@ -48,17 +48,17 @@
   color: #00b0ff;
 }
 
-.neighborhood-guides {
+.title-text {
     background-color: #efefef;
     border-bottom: 1px solid #dbdbdb;
 }
 
-.neighborhood-guides h2{
+.title-text h2{
     color: #393c3d;
     font-size: 24px;
 }
 
-.neighborhood-guides p{
+.title-text p{
     font-size: 15px;
     margin-bottom: 13px;
 }
