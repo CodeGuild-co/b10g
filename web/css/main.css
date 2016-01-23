@@ -49,6 +49,8 @@
 }
 
 .title-text {
+    margin-right: auto
+    margin-left: auto
     background-color: #efefef;
     border-bottom: 1px solid #dbdbdb;
 }
