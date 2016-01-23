@@ -49,8 +49,7 @@
 }
 
 .title-text {
-    margin-right: auto;
-    margin-left: auto;
+  text-align: center;
     background-color: #efefef;
     border-bottom: 1px solid #dbdbdb;
 }
