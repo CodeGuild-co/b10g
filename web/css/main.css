@@ -44,26 +44,7 @@
    padding-top: 13px;
  }
  
-.title-text {
-  text-align: center;
-    background-color: #efefef;
-    border-bottom: 1px solid #dbdbdb;
-}
 
-.title-text h2{
-    color: #393c3d;
-    font-size: 24px;
-}
-
-.title-text p{
-    font-size: 15px;
-    margin-bottom: 13px;
-}
-
-.row .col-md-4 a{
-  padding-top: 13px;
-  padding-bottom: 15px;
-}
 
 .container .icons{
   padding  padding-top: 13px;
