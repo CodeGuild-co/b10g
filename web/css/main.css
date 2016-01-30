@@ -50,6 +50,7 @@
 .container .icons{
   padding-top: 15px;
   padding-bottom: 13px;
+  bottom:0;
 }
 
 .title-text{
