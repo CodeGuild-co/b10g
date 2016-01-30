@@ -35,23 +35,14 @@
 }
 
 
-.footer h3 {
-  font-family: 'Shift', sans-serif;
-  font-size: 18px;
-  font-weight: bold;
-}
-
-
-.footer {
-    color:  #e6e6e6;
-    clear: both;
-    position: relative;
-    z-index: 10;
-    height: 3em;
-    margin-top: -3em;
-    padding-top: 15px;
-}
-
+ .footer {
+   background-color: #e6e6e6;
+   background-size: cover;
+   z-index: 10;
+   height: 3em;
+   position: relative;
+ }
+ 
 .title-text {
   text-align: center;
     background-color: #efefef;
