@@ -64,3 +64,9 @@
     font-size: 15px;
     margin-bottom: 13px;
 }
+
+.row .col-md-4 a{
+  margin-top:13px;
+  margin-bottom:15px;
+}
+}
