@@ -45,8 +45,14 @@
   font-weight: bold;
 }
 
-.footer a {
-  color: #00b0ff;
+
+.footer {
+    color: #00b0ff;
+    clear: both;
+    position: relative;
+    z-index: 10;
+    height: 3em;
+    margin-top: -3em;
 }
 
 .title-text {
@@ -67,5 +73,6 @@
 
 .row .col-md-4 a{
   padding-top: 13px;
+  padding-bottom: 15px;
 }
-}
+
