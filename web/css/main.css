@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,900);
+
 .nav a {
   color: #5a5a5a;
   font-size: 11px;
@@ -98,4 +100,32 @@
     font-size:1.2em;
     font-weight:bold;
     text-decoration:none;
+}
+
+.module {
+  background: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.6),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/skyscrapers.jpg);
+  background-size: cover;
+  width: 300px;
+  height: 200px;
+  margin: 10px 0 0 10px;
+  position: relative;
+  float: left;
+}
+
+.mid h2 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+  color: white;
+  text-transform: uppercase;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 2rem;
+  transform: translate(-50%, -50%);
 }
