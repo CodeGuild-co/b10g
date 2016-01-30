@@ -1,6 +1,6 @@
 .nav a {
   color: #5a5a5a;
-  font-size: 23px;
+  font-size: 15px;
   font-weight: bold;
   padding: 14px 10px;
   text-transform: uppercase;
@@ -35,7 +35,8 @@
 }
 
 .footer {
-  background-color: #f7f7f7;
+  background-color: #e6e6e6;
+  background-size: cover;
 }
 
 .footer h3 {
