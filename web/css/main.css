@@ -35,16 +35,15 @@
 }
 
 
- .footer {
-   background-color: #e6e6e6;
-   background-size: cover;
-   z-index: 10;
-   height: 3em;
-   position: relative;
-   padding-top: 13px;
-  bottom:0;
+.footer {
   position: absolute;
- }
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #e6e6e6;
+  text-align: center;
+}
  
 
 
