@@ -35,15 +35,15 @@
 }
 
 
-.footer {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  padding: 1rem;
-  background-color: #e6e6e6;
-  text-align: center;
+ <style>
+footer {
+    clear: both;
+    position: relative;
+    z-index: 1; 
+    height: -3em; 
+    margin-top: 40em; 
 }
+</style>
  
 
 
